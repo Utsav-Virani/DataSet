@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "product": {
+        "book_type": "Paperback Nonfiction",
+        "bestsellers_date": "2022-11-05",
+        "price": "120.00",
+        "rank": 1,
+        "rank_last_week": 1,
+        "product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "THE BODY KEEPS THE SCORE",
+        "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+        "contributor": "by Bessel van der Kolk",
+        "author": "Bessel van der Kolk",
+        "published_date": "2022-11-20",
+        "publisher": "Penguin",
+        "isbn": "9780143127741"
+      },
+      "reviews": {
+        "reviewer_name": "Adam Henry",
+        "review_description": "A book about understanding the impact of trauma by one of the true pioneers in the field",
+        "PersonalRating": 7
+      }
+    },
+    {
+      "product": {
+        "book_type": "Combined Print and E-Book Fiction",
+        "bestsellers_date": "2022-11-05",
+        "price": "20.00",
+        "rank": 3,
+        "rank_last_week": 3,
+        "product_url": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "IT STARTS WITH US",
+        "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+        "contributor": "by Colleen Hoover",
+        "author": "Colleen Hoover",
+        "published_date": "2022-11-20",
+        "publisher": "Atria",
+        "isbn": "9781668001226"
+      },
+      "reviews": {
+        "reviewer_name": "Christopher Colombo",
+        "review_description": "This book is a tour de force. Its deeply empathic, insightful, and compassionate perspective promises to further humanize the treatment of trauma victims, dramatically expand their repertoire of self-regulatory healing practices and therapeutic options, and also stimulate greater creative thinking and research on trauma and its effective treatment.",
+        "PersonalRating": 8
+      }
+    },
+    {
+      "product": {
+        "book_type": "Mass Market Paperback",
+        "bestsellers_date": "2017-01-14",
+        "price": "450.00",
+        "rank": 2,
+        "rank_last_week": 2,
+        "product_url": "http://www.amazon.com/Sweet-Tomorrows-Rose-Harbor-Novel-ebook/dp/B017QLRN1Y?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "SWEET TOMORROWS",
+        "description": "The journeys of the characters at the Rose Harbor Inn come to a close in this last book of the series.",
+        "contributor": "by Debbie Macomber",
+        "author": "Debbie Macomber",
+        "published_date": "2017-01-29",
+        "publisher": "Ballantine",
+        "isbn": "9780553391862"
+      },
+      "reviews": {
+        "reviewer_name": "Christopher Colombo",
+        "review_description": "Love the book, however I wish it didn’t have the yellow circle ‘sticker’ on the front! You can’t remove it as it is part of the cover",
+        "PersonalRating": 6
+      }
+    },
+    {
+      "product": {
+        "book_type": "E-Book Nonfiction",
+        "bestsellers_date": "2017-01-14",
+        "price": "234.00",
+        "rank": 1,
+        "rank_last_week": 4,
+        "product_url": "http://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians-ebook/dp/B0166JFFD0?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "HIDDEN FIGURES",
+        "description": "The black women mathematicians who worked at then-segregated NASA. The basis of the movie.",
+        "contributor": "by Margot Lee Shetterly",
+        "author": "Margot Lee Shetterly",
+        "published_date": "2017-01-29",
+        "publisher": "Morrow/HarperCollins",
+        "isbn": "9780062363619"
+      },
+      "reviews": {
+        "reviewer_name": "Quinton Kalra",
+        "review_description": "Macomber fans will leave the Rose Harbor Inn with warm memories of healing, hope, and enduring love",
+        "PersonalRating": 9
+      }
+    },
+    {
+      "product": {
+        "book_type": "Hardcover Advice",
+        "bestsellers_date": "2013-04-06",
+        "price": "32.00",
+        "rank": 1,
+        "rank_last_week": 0,
+        "product_url": "http://www.amazon.com/Its-All-Good-Delicious-Recipes/dp/1455522716?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "IT'S ALL GOOD",
+        "description": "Easy, healthy, sugar-free recipes.",
+        "contributor": "by Gwyneth Paltrow and Julia Turshen",
+        "author": "Gwyneth Paltrow and Julia Turshen",
+        "published_date": "2013-04-21",
+        "publisher": "Grand Central Life & Style",
+        "isbn": "9781455522712"
+      },
+      "reviews": {
+        "reviewer_name": "Jack Mustang",
+        "review_description": "I'm delighted that this cookbook is so highly rated on Amazon, because it deserves it.",
+        "PersonalRating": 5
+      }
+    },
+    {
+      "product": {
+        "book_type": "Hardcover Graphic Books",
+        "bestsellers_date": "2017-01-14",
+        "price": "321.00",
+        "rank": 1,
+        "rank_last_week": 0,
+        "product_url": "https://www.amazon.com/Kindred-Graphic-Adaptation-Damian-Duffy/dp/141970947X?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "KINDRED",
+        "description": "A woman travels through time — from the 1970s to the pre-Civil War era — in this adaptation of Butler’s 1979 novel.",
+        "contributor": "by Octavia E. Butler, Damian Duffy and John Jennings",
+        "author": "Octavia E Butler, Damian Duffy and John Jennings",
+        "published_date": "2017-01-29",
+        "publisher": "Abrams",
+        "isbn": "9781419709470"
+      },
+      "reviews": {
+        "reviewer_name": "Cian Morris",
+        "review_description": "Wonderful. Captures the essence of Octavia Butler’s vision even as it demonstrates the superlative skills of Duffy and Jennings.",
+        "PersonalRating": 7
+      }
+    },
+    {
+      "product": {
+        "book_type": "Combined Print Fiction",
+        "bestsellers_date": "2013-04-27",
+        "price": "80.00",
+        "rank": 1,
+        "rank_last_week": 3,
+        "product_url": "http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "THE HIT",
+        "description": "The government hit man Will Robie uncovers a serious threat as he tries to stop Jessica Reel, a fellow assassin who has gone rogue.",
+        "contributor": "by David Baldacci",
+        "author": "David Baldacci",
+        "published_date": "2013-05-12",
+        "publisher": "Grand Central",
+        "isbn": "9781455521210"
+      },
+      "reviews": {
+        "reviewer_name": "Olivia Clarke",
+        "review_description": "A great second offering in the series. Really fast paced. Like how he harkens back to first book some but keeps the story going.",
+        "PersonalRating": 10
+      }
+    },
+    {
+      "product": {
+        "book_type": "Paperback Books",
+        "bestsellers_date": "2012-11-24",
+        "price": "14.00",
+        "rank": 1,
+        "rank_last_week": 0,
+        "product_url": "http://www.amazon.com/Perks-Being-Wallflower-Stephen-Chbosky/dp/1451696191?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "THE PERKS OF BEING A WALLFLOWER",
+        "description": "What it’s like to grow up, from the perspective of a high school boy.",
+        "contributor": "by Stephen Chbosky",
+        "author": "Stephen Chbosky",
+        "published_date": "2012-12-09",
+        "publisher": "MTV Books/Gallery Books",
+        "isbn": "9780671027346"
+      },
+      "reviews": {
+        "reviewer_name": "Emily Paris",
+        "review_description": "Of course I loved the book. It's so much more than young-adult combing-of-age",
+        "PersonalRating": 9
+      }
+    },
+    {
+      "product": {
+        "book_type": "Audio Nonfiction",
+        "bestsellers_date": "2022-10-29",
+        "price": "57.00",
+        "rank": 1,
+        "rank_last_week": 0,
+        "product_url": "https://www.amazon.com/dp/0593297342?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "CONFIDENCE MAN",
+        "description": "The New York Times White House correspondent traces events from Donald Trump’s rise in New York City through to his post-presidency. Read by the author. 17 hours, 22 minutes unabridged.",
+        "contributor": "by Maggie Haberman",
+        "author": "Maggie Haberman",
+        "published_date": "2022-11-13",
+        "publisher": "Penguin Audio",
+        "isbn": "9780593629277"
+      },
+      "reviews": {
+        "reviewer_name": "Cameron Diaz",
+        "review_description": "Delivers eye-popping details about the Trump presidency",
+        "PersonalRating": 8
+      }
+    },
+    {
+      "product": {
+        "book_type": "Combined Print Nonfiction",
+        "bestsellers_date": "2013-04-27",
+        "price": "112.00",
+        "rank": 1,
+        "rank_last_week": 0,
+        "product_url": "http://www.amazon.com/Lets-Explore-Diabetes-David-Sedaris/dp/0316154709?tag=NYTBSREV-20"
+      },
+      "book_details": {
+        "title": "LET'S EXPLORE DIABETES WITH OWLS",
+        "description": "A humorist returns with more wry takes on contemporary life.",
+        "contributor": "by David Sedaris",
+        "author": "David Sedaris",
+        "published_date": "2013-05-12",
+        "publisher": "Little, Brown",
+        "isbn": "9780316154697"
+      },
+      "reviews": {
+        "reviewer_name": "Angel Jolie",
+        "review_description": "This book is hysterical!",
+        "PersonalRating": 7
+      }
+    }
+  ]
+}
